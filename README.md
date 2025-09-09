@@ -1,4 +1,4 @@
-😷 Face Mask Detection
+#😷 Face Mask Detection
 A simple deep learning project that detects whether a person is wearing a mask or not.
 
 ---
