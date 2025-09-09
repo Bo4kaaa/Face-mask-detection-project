@@ -35,5 +35,5 @@ A simple deep learning project that detects whether a person is wearing a mask o
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Bo4kaaa/Face-mask-detection-new.git
-   cd Face-mask-detection-new
+   git clone https://github.com/Bo4kaaa/Face-mask-detection-project.git
+   cd Face-mask-detection-project
